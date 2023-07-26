@@ -1,0 +1,1 @@
+![Banner Strong Code](bannerStrongCode.png)
