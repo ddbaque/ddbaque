@@ -1,1 +1,1 @@
-![Banner Strong Code](bannerStrongCode.png)
+![Banner Strong Code](StrongCode.png)
